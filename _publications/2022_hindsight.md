@@ -9,5 +9,5 @@ venue: 'CESifo Working Paper'
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/CESifo_hindsight.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123827'
-citation: 'Herz, Holger and Kistler, Deborah and Zehnder, Christian and Zihlmann, Christian, Hindsight Bias and Trust in Government: Evidence from the United States (2022). CESifo Working Paper No. 9767'
+citation: 'Herz Holger, Kistler Deborah, Zehnder Christian and Zihlmann Christian (2022). Hindsight Bias and Trust in Government: Evidence from the United States. CESifo Working Paper No. 9767'
 ---
