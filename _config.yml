@@ -85,7 +85,7 @@ author:
   avatar           : "profile.png"
   bio              : "Behavioral and Experimental Economist"
   location         : "Switzerland"
-  employer         : "https://www.bfh.ch/en/about-bfh/people/dzwdfoxjvumj/"
+  employer         : # "https://www.bfh.ch/en/about-bfh/people/dzwdfoxjvumj/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            :
