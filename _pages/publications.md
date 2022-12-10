@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+# title: "Research"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,14 +12,14 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<h2><i>Working Papers</i></h2>
+<h1>Working Papers</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h2>Work in progress</h2>
+<h1>Work in progress</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'wip' %}
       {% include archive-single.html %}
