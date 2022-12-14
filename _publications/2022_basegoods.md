@@ -8,7 +8,7 @@ consumers behave in line with classical theory and evaluate the base good and th
 add-on independently. Other consumers are relative thinkers and compare the price
 of the add-on with the price of the base good, resulting in their willingness-to-pay
 for the add-on to be increasing in the price of the base good.'
-date: 2022-12-31
+date: 2022-12-30
 venue: 'Work in progress.'
 # code: 'https://osf.io/hup9c/'
 # paperurl: '/files/pone0276463.pdf'
