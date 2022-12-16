@@ -3,7 +3,7 @@ pubtype: 'workingpaper'
 title: "Adverse Effects of Control: Evidence from a Field Experiment"
 collection: publications
 permalink: /publications/2021_control
-excerpt: 'When controlled by the employer, workers tend to reduce their performance particularly on challenging and hard-to-solve tasks, while their performance on easy tasks remains unaffected.'
+excerpt: '<em>When controlled by the employer, workers tend to reduce their performance particularly on challenging and hard-to-solve tasks, while their performance on easy tasks remains unaffected.</em>'
 date: 2021-02-19
 venue: 'CESifo Working Paper'
 # code: 'https://osf.io/hup9c/'
