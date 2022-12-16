@@ -3,7 +3,7 @@ pubtype: 'wip'
 title: "Partition dependent probability judgements in sports betting: Field experimental evidence"
 collection: publications
 permalink: /publications/2022_snf
-excerpt: 'Sports bettors causally assign greater probability to two sub-events ("Home wins" and "Draw") than the logically equivalent joint event ("Either Home wins or Draw").'
+excerpt: '<em>Sports bettors causally assign greater probability to two sub-events ("Home wins" and "Draw") than the logically equivalent joint event ("Either Home wins or Draw").</em>'
 date: 2022-12-30
 venue: 'Work in progress.'
 # code: 'https://osf.io/hup9c/'
