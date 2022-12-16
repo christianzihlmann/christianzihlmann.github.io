@@ -2,9 +2,10 @@
 permalink: /teaching/
 title: "Teaching"
 ---
+My teaching in Managerial Accounting mainly focuses around organizational decision-making, incentives and performance measurement. With my background as a Certified Public Accountant, I also love to teach courses in finance.
 
 ## Courses
-- Managerial Accounting (English and German class)
+- Managerial Accounting (English and German)
 	- Autumn 2022
 - Behavioral Organizational Economics (German) 
 	- Autumn 2022

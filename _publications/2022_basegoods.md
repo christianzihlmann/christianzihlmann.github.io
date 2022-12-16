@@ -3,11 +3,7 @@ pubtype: 'wip'
 title: "Base Goods as Reference Points"
 collection: publications
 permalink: /publications/2022_basegoods
-excerpt: 'We study an after-sales market with a mixed population of consumers. Standard
-consumers behave in line with classical theory and evaluate the base good and the
-add-on independently. Other consumers are relative thinkers and compare the price
-of the add-on with the price of the base good, resulting in their willingness-to-pay
-for the add-on to be increasing in the price of the base good.'
+excerpt: 'In an add-on market, a consumer who thinks relatively (that is, who considers the price of the add-on in relation to the price of the previous base good purchase) can potentially harm the surplus of classical consumers.'
 date: 2022-12-31
 venue: 'Work in progress.'
 # code: 'https://osf.io/hup9c/'

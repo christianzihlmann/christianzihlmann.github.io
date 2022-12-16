@@ -3,7 +3,7 @@ pubtype: 'workingpaper'
 title: "Adverse Effects of Control: Evidence from a Field Experiment"
 collection: publications
 permalink: /publications/2021_control
-excerpt: 'We conduct a field experiment with remote workers to causally assess the impact of introducing a control mechanism on performance, and analyse the incidence of potential effects across tasks of different difficulty. We find that the implementation of control significantly reduces performance. The reduction occurs primarily among challenging tasks, whereas performance among simple tasks is unaffected. Further, the effects are primarily driven by workers with nonpecuniary motivation when uncontrolled. Our findings suggest that the relative importance of high performance among challenging tasks for employer profits can be a crucial determinant of the overall profitability of control interventions.'
+excerpt: 'When controlled by the employer, workers tend to reduce their performance particularly on challenging and hard-to-solve tasks, while their performance on easy tasks remains unaffected.'
 date: 2021-02-19
 venue: 'CESifo Working Paper'
 # code: 'https://osf.io/hup9c/'
