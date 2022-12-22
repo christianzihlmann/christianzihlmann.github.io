@@ -1,9 +1,9 @@
 ---
 pubtype: 'workingpaper'
-title: "Hindsight Bias and Trust in Government: Evidence from the United States"
+title: "Hindsight Bias and Trust in Government"
 collection: publications
 permalink: /publications/2022_hindsight
-excerpt: '<em>People's incorrect beliefs due to distorted memories cause a reduction in trust in government.</em>'
+excerpt: '<em>People`s incorrect beliefs due to distorted memories cause a reduction in trust in government.</em>'
 date: 2022-05-31
 venue: 'CESifo Working Paper'
 # code: 'https://osf.io/hup9c/'
