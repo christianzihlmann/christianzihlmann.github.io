@@ -3,7 +3,7 @@ pubtype: 'workingpaper'
 title: "Hindsight Bias and Trust in Government: Evidence from the United States"
 collection: publications
 permalink: /publications/2022_hindsight
-excerpt: '<em>At the peak of the first wave of Covid-19 in the United States, the average respondent mistakenly believes they supported significantly stricter restrictions at the onset of the first wave than they actually did, leading to a causal reduction in trust in government.</em>'
+excerpt: '<em>People's incorrect beliefs due to distorted memories cause a reduction in trust in government.</em>'
 date: 2022-05-31
 venue: 'CESifo Working Paper'
 # code: 'https://osf.io/hup9c/'
