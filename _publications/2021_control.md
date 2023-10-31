@@ -9,5 +9,5 @@ venue: '<b>R&amp;R at Experimental Economics.</b>'
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/CESifo_control.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788710'
-citation: 'Herz Holger and Zihlmann Christian (2021). Adverse Effects of Control: Evidence from a Field Experiment (2021). <b>R&amp;R at Experimental Economics.</b>'
+citation: 'Herz Holger and Zihlmann Christian (2021). Adverse Effects of Control: Evidence from a Field Experiment. <b>R&amp;R at Experimental Economics.</b>'
 ---
