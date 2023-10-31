@@ -9,5 +9,5 @@ venue: 'Working Paper'
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/drippricing.pdf'
 link: 'https://drive.google.com/file/d/1lI5PSu9JVJH9SNhdLbIrtHNGBfQcJ3zw/view'
-citation: 'Brunner Philipp and Zihlmann Christian.'
+citation: 'Brunner Philipp and Zihlmann Christian (2023).'
 ---
