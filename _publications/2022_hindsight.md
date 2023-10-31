@@ -9,5 +9,5 @@ venue: '<b>Conditionally accepted at The Review of Economics and Statistics.</b>
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/CESifo_hindsight.pdf'
 link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4123827'
-citation: 'Herz Holger, Kistler Deborah, Zehnder Christian and Zihlmann Christian (2022). Hindsight Bias and Trust in Government: Evidence from the United States. CESifo Working Paper No. 9767'
+citation: 'Herz Holger, Kistler Deborah, Zehnder Christian and Zihlmann Christian (2022). Hindsight Bias and Trust in Government: Evidence from the United States. <b>Conditionally accepted at The Review of Economics and Statistics.</b>'
 ---
