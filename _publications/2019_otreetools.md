@@ -1,6 +1,6 @@
 ---
 pubtype: 'other'
-title: "Introducing otree&lowbar;tools: A powerful package to provide process data for attention, multitasking behavior and effort through tracking focus."
+title: "Introducing otree_tools: A powerful package to provide process data for attention, multitasking behavior and effort through tracking focus."
 collection: publications
 permalink: /publications/2019_otreetools
 # excerpt: '<em>When controlled by the employer, workers tend to reduce their performance particularly on challenging and hard-to-solve tasks.</em>'
