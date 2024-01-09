@@ -25,6 +25,7 @@ author_profile: true
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
+<br>
 <h1>Other research contributions</h1>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'other' %}
