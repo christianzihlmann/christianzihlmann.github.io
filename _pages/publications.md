@@ -24,4 +24,9 @@ author_profile: true
   {% if post.pubtype == 'wip' %}
       {% include archive-single.html %}
   {% endif %}
+<h1>Other research contributions</h1>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'other' %}
+      {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
