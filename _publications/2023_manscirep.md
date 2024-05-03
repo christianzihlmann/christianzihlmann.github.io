@@ -10,5 +10,5 @@ code: 'https://services.informs.org/dataset/download.php?doi=mnsc.2023.03556'
 paperurl: '/files/manscirep.pdf'
 link: 'https://doi.org/10.1287/mnsc.2023.03556'
 citation: 'Fišar Miloš, Greiner Ben, Huber Christoph, Katok Elena, Ozkes Ali I. and the Management
-Science Reproducibility Collaboration (2023). Reproducibility in Management Science.  <b>Management Science.</b> Note: Member of the Reproducibility Collaboration.'
+Science Reproducibility Collaboration (2023). <b>Management Science.</b> Note: Member of the Reproducibility Collaboration.'
 ---
