@@ -9,5 +9,5 @@ venue: 'Journal of Behavioral and Experimental Finance.'
 code: 'https://github.com/otree-tools/otree_tools'
 # paperurl: '/files/CESifo_control.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S2214635018302119'
-citation: 'Chapkovski Philipp and Zihlmann Christian (2019). Introducing otree&lowbar;tools: A powerful package to provide process data for attention, multitasking behavior and effort through tracking focus. <b>Journal of Behavioral and Experimental Finance.</b> Special Issue: Software for Experimental Economics.'
+citation: 'Chapkovski Philipp and Zihlmann Christian (2019). <b>Journal of Behavioral and Experimental Finance.</b> Special Issue: Software for Experimental Economics.'
 ---
