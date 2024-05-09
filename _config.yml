@@ -78,7 +78,6 @@ analytics:
     tracking_id          : 
   goatcounter:
     code		 : 
-google_analytics	 : 
 
 # Site Author
 author:
