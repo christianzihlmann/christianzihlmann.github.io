@@ -7,7 +7,7 @@ excerpt: '<em>When controlled by the employer, workers tend to reduce their perf
 date: 2024-02-01
 venue: '<b>Experimental Economics.</b>'
 code: 'https://osf.io/r9atb/'
-paperurl: '/files/CESifo_control.pdf'
-link: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788710'
-citation: 'Herz Holger and Zihlmann Christian (2024). Accepted for publication in <b>Experimental Economics.</b>'
+paperurl: '/files/ExExMS-9823.pdf'
+link: 'https://link.springer.com/article/10.1007/s10683-024-09823-3?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240528&utm_content=10.1007/s10683-024-09823-3'
+citation: 'Herz Holger and Zihlmann Christian (2024). <b>Experimental Economics.</b>'
 ---
