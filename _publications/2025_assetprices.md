@@ -1,10 +1,10 @@
 ---
 pubtype: 'wip'
-title: "Incentive Contracts with Nonstandard Beliefs and Errors in Statistical Reasoning"
+title: "Empirical Prices in Competitive vs. Oligopolistic Markets"
 collection: publications
-permalink: /publications/2022_snf
+permalink: /publications/2025_assetprices
 # excerpt: '<em>A [SNSF project](https://data.snf.ch/grants/grant/204577) that involves incorporating errors in statistical reasoning into incentive theory.</em>'
-date: 2022-12-28
+date: 2025-01-01
 venue: 'Work in progress.'
 # code: 'https://osf.io/hup9c/'
 # paperurl: '/files/pone0276463.pdf'
