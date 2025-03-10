@@ -1,5 +1,5 @@
 ---
-pubtype: 'wip'
+pubtype: 'workingpaper'
 title: "Compressed beliefs in sports betting and inflation expectations"
 collection: publications
 permalink: /publications/2022_partition
