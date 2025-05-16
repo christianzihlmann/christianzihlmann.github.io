@@ -1,6 +1,6 @@
 ---
 pubtype: 'workingpaper'
-title: "“Extra bacon?” Context Effects in Purchases of Additional Items"
+title: "Cross- and Upselling with Context Effects"
 collection: publications
 permalink: /publications/2024_drippricing
 excerpt: '<em>Firms upsell to consumers who evaluate the price of the upgrade relative to the price of the previously purchased base good, potentially jeopardizing welfare in the economy.</em>'
