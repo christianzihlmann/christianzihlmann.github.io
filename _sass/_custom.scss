@@ -76,26 +76,6 @@ br {
 }
 
 
-/* Tighter spacing inside each publication entry */
-.archive__item {
-  margin-bottom: 0.5rem;  /* space between different papers */
-}
 
-.archive__item-title {
-  margin-bottom: 0.15rem; /* title → citation */
-}
-
-/* Generic: tighten everything inside the body of an archive item */
-.archive__item-body > * {
-  margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-}
-
-/* Paragraphs inside publications (citation, excerpt, etc.) */
-.archive__item-body p {
-  margin-top: 0.1rem;
-  margin-bottom: 0.1rem;
-  line-height: 1.3; /* optional, makes blocks denser */
-}
 
 
