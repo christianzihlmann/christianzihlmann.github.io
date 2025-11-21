@@ -3,7 +3,7 @@ pubtype: 'journal'
 title: "Hindsight Bias and Trust in Government"
 collection: publications
 permalink: /publications/2025_hindsight
-excerpt: '<em>People&apos;s distorted memories cause a reduction in trust in government.</em>'
+#excerpt: '<em>People&apos;s distorted memories cause a reduction in trust in government.</em>'
 date: 2025-02-09
 venue: 'The Review of Economics and Statistics.'
 code: 'https://doi.org/10.7910/DVN/8IPDGC'
