@@ -5,21 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-<h1>Articles (peer-reviewed)</h1>
+<h2>Articles (peer-reviewed)</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'journal' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h1>Working Papers</h1>
+<h2>Working Papers</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'workingpaper' %}
       {% include archive-single.html %}
   {% endif %}
 {% endfor %}
 
-<h1>Other research contributions</h1>
+<h2>Other research contributions</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'other' %}
       {% include archive-single.html %}
