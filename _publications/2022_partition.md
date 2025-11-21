@@ -3,7 +3,7 @@ pubtype: 'workingpaper'
 title: "Compressed Beliefs"
 collection: publications
 permalink: /publications/2022_partition
-excerpt: '<em>Sports bettors causally assign greater probability to two sub-events ("Home wins" and "Draw") than the logically equivalent joint event ("Either Home wins or Draw"), a pattern that can also be found in inflation expectations.</em>'
+excerpt: '<em>Probabilistic beliefs systematically converge towards a cognitive default.</em>'
 date: 2022-12-31
 venue: 'Working paper.'
 # code: 'https://osf.io/hup9c/'

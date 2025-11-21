@@ -9,5 +9,5 @@ venue: 'Working Paper'
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/ExtraBacon.pdf'
 link: 'https://folia.unifr.ch/unifr/documents/328311'
-citation: 'Brunner Philipp and Zihlmann Christian (2024).'
+citation: 'Philipp Brunner and Christian Zihlmann (2024).'
 ---

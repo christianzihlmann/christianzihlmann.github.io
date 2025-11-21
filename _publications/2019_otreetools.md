@@ -9,5 +9,5 @@ venue: 'Journal of Behavioral and Experimental Finance.'
 code: 'https://github.com/otree-tools/otree_tools'
 # paperurl: '/files/CESifo_control.pdf'
 link: 'https://www.sciencedirect.com/science/article/abs/pii/S2214635018302119'
-citation: 'Chapkovski Philipp and Zihlmann Christian (2019). <b>Journal of Behavioral and Experimental Finance.</b> Special Issue: Software for Experimental Economics.'
+citation: 'Philipp Chapkovski and Christian Zihlmann (2019). <b>Journal of Behavioral and Experimental Finance.</b> Special Issue: Software for Experimental Economics.'
 ---
