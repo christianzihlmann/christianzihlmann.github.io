@@ -9,5 +9,5 @@ venue: 'Working paper.'
 # code: 'https://osf.io/hup9c/'
 paperurl: '/files/CompressedBeliefs.pdf'
 link: 'https://folia.unifr.ch/global/documents/334237'
-citation: 'Christian Zihlmann (2025).'
+citation: 'Christian Zihlmann (2026).'
 ---
