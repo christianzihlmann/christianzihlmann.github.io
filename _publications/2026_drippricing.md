@@ -7,7 +7,7 @@ permalink: /publications/2026_drippricing
 date: 2026-08-01
 venue: 'Working Paper'
 # code: 'https://osf.io/hup9c/'
-paperurl: '/files/ExtraBacon.pdf'
-link: 'https://folia.unifr.ch/unifr/documents/328311'
-citation: 'Philipp Brunner and Christian Zihlmann (2026). Accepted for publication in <b><i>Journal of Economic Behavior & Organization.</i></b>'
+paperurl: '/files/ContextEffects.pdf'
+link: 'https://www.sciencedirect.com/science/article/pii/S0167268126002131'
+citation: 'Philipp Brunner and Christian Zihlmann (2026). <b><i>Journal of Economic Behavior & Organization.</i></b>'
 ---
