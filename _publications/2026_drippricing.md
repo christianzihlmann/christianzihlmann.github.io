@@ -1,5 +1,5 @@
 ---
-pubtype: 'workingpaper'
+pubtype: 'journal'
 title: "Add-on Selling with Context Effects"
 collection: publications
 permalink: /publications/2026_drippricing
