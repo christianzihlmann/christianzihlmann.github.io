@@ -10,10 +10,8 @@ redirect_from:
 
 Welcome! I am a Professor at [Bern University of Applied Sciences](https://www.bfh.ch/en/about-bfh/people/dzwdfoxjvumj/). I earned my Ph.D. in 2022 at the [University of Fribourg](https://www.unifr.ch/ecopol/en/departement/research-fellows.html), where I am also affiliated as a research fellow.
 
-My [research](publications) is in microeconomics and focuses on understanding behavior in organizations. I am also interested in experimental methods and open science. Since summer 2025, I have held a [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/grant/222695) career grant supporting my research program on the impact of knowledge work and new technologies on organizations and society.
+My [research](publications) focuses on understanding decision-making in organizations, grounded in microeconomic perspectives. I am also interested in experimental methods and open science.
 
-Teaching means a lot to me, and I love interacting and engaging with students, always trying to inspire the next generation of decision makers. 
+My current work asks how emerging technologies and new ways of working, from artificial intelligence to hybrid work, are changing knowledge work, organizations, and society. Since summer 2025, I have held a  [Swiss National Science Foundation (SNSF)](https://data.snf.ch/grants/grant/222695) career grant,  "Managing Knowledge Work", supporting this research program.
 
-
-
-
+Teaching means a lot to me, and I love interacting and engaging with students, always trying to inspire the next generation of decision-makers. 
